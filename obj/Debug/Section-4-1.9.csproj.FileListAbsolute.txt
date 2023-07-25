@@ -1,0 +1,8 @@
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Project\Section-4-1.9\Section-4-1.9\bin\Debug\Section-4-1.9.exe.config
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Project\Section-4-1.9\Section-4-1.9\bin\Debug\Section-4-1.9.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Project\Section-4-1.9\Section-4-1.9\bin\Debug\Section-4-1.9.pdb
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Project\Section-4-1.9\Section-4-1.9\obj\Debug\Section-4-1.9.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Project\Section-4-1.9\Section-4-1.9\obj\Debug\Section-4-1.9.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Project\Section-4-1.9\Section-4-1.9\obj\Debug\Section-4-1.9.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Project\Section-4-1.9\Section-4-1.9\obj\Debug\Section-4-1.9.exe
+C:\Users\HP\Desktop\Indeed\Phase-2(C#)\Project\Section-4-1.9\Section-4-1.9\obj\Debug\Section-4-1.9.pdb
